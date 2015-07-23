@@ -95,7 +95,8 @@ public final class GalleryActivity extends AbstractGalleryActivity implements On
                 || ACTION_REVIEW.equalsIgnoreCase(action)){
             startViewAction(intent);
         } else {
-            startDefaultPage();
+        //   startDefaultPage();
+             getStateManager().startState(DomeActivity.class, null);
         }
     }
 
@@ -222,7 +223,7 @@ public final class GalleryActivity extends AbstractGalleryActivity implements On
                         data.putBoolean(PhotoPage.KEY_TREAT_BACK_AS_UP, true);
                     }
                 }
-
+                
                 getStateManager().startState(SinglePhotoPage.class, data);
             }
         }

@@ -44,7 +44,7 @@ public class TiledTexture implements Texture {
 
     // We are targeting at 60fps, so we have 16ms for each frame.
     // In this 16ms, we use about 4~8 ms to upload tiles.
-    private static final long UPLOAD_TILE_LIMIT = 4; // ms
+    private static final long UPLOAD_TILE_LIMIT = 50; // ms
 
     private static Tile sFreeTileHead = null;
     private static final Object sFreeTileLock = new Object();

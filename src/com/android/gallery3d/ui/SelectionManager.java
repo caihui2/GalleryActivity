@@ -244,7 +244,7 @@ public class SelectionManager {
         }
         return selected;
     }
-
+    
     public void setSourceMediaSet(MediaSet set) {
         mSourceMediaSet = set;
         mTotal = -1;

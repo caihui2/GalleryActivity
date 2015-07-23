@@ -31,7 +31,7 @@ public class SlotView extends GLView {
     @SuppressWarnings("unused")
     private static final String TAG = "SlotView";
 
-    private static final boolean WIDE = true;
+    private static final boolean WIDE = false;
     private static final int INDEX_NONE = -1;
 
     public static final int RENDER_MORE_PASS = 1;
@@ -191,7 +191,7 @@ public class SlotView extends GLView {
 
     protected void onScrollPositionChanged(int newPosition) {
         int limit = mLayout.getScrollLimit();
-        mListener.onScrollPositionChanged(newPosition, limit);
+     //   mListener.onScrollPositionChanged(newPosition, limit);
     }
 
     public Rect getSlotRect(int slotIndex) {
@@ -390,6 +390,9 @@ public class SlotView extends GLView {
         public int rowsLand = -1;
         public int rowsPort = -1;
         public int slotGap = -1;
+        
+        public int mUnitCount;
+       
     }
 
     public class Layout {
@@ -472,9 +475,9 @@ public class SlotView extends GLView {
                 int majorLength, int minorLength,  /* The view width and height */
                 int majorUnitSize, int minorUnitSize,  /* The slot width and height */
                 int[] padding) {
-            int unitCount = (minorLength + mSlotGap) / (minorUnitSize + mSlotGap);
-            if (unitCount == 0) unitCount = 1;
-            mUnitCount = unitCount;
+//            int unitCount = (minorLength + mSlotGap) / (minorUnitSize + mSlotGap);
+//            if (unitCount == 0) unitCount = 1;
+    //        mUnitCount = unitCount;
 
             // We put extra padding above and below the column.
             int availableUnits = Math.min(mUnitCount, mSlotCount);
@@ -494,9 +497,10 @@ public class SlotView extends GLView {
         private void initLayoutParameters() {
             // Initialize mSlotWidth and mSlotHeight from mSpec
             if (mSpec.slotWidth != -1) {
-                mSlotGap = 0;
+                mSlotGap = mSpec.slotGap;
                 mSlotWidth = mSpec.slotWidth;
                 mSlotHeight = mSpec.slotHeight;
+                mUnitCount = mSpec.mUnitCount;
             } else {
                 int rows = (mWidth > mHeight) ? mSpec.rowsLand : mSpec.rowsPort;
                 mSlotGap = mSpec.slotGap;
@@ -629,18 +633,18 @@ public class SlotView extends GLView {
         // call the listener's onUp() when we receive any further event.
         @Override
         public void onShowPress(MotionEvent e) {
-            GLRoot root = getGLRoot();
-            root.lockRenderThread();
-            try {
-                if (isDown) return;
-                int index = mLayout.getSlotIndexByPosition(e.getX(), e.getY());
-                if (index != INDEX_NONE) {
-                    isDown = true;
-                    mListener.onDown(index);
-                }
-            } finally {
-                root.unlockRenderThread();
-            }
+//            GLRoot root = getGLRoot();
+//            root.lockRenderThread();
+//            try {
+//                if (isDown) return;
+//                int index = mLayout.getSlotIndexByPosition(e.getX(), e.getY());
+//                if (index != INDEX_NONE) {
+//                    isDown = true;
+//                    mListener.onDown(index);
+//                }
+//            } finally {
+//                root.unlockRenderThread();
+//            }
         }
 
         private void cancelDown(boolean byLongPress) {
@@ -695,12 +699,12 @@ public class SlotView extends GLView {
             cancelDown(true);
             if (mDownInScrolling) return;
             lockRendering();
-            try {
-                int index = mLayout.getSlotIndexByPosition(e.getX(), e.getY());
-                if (index != INDEX_NONE) mListener.onLongTap(index);
-            } finally {
-                unlockRendering();
-            }
+//            try {
+//                int index = mLayout.getSlotIndexByPosition(e.getX(), e.getY());
+//                if (index != INDEX_NONE) mListener.onLongTap(index);
+//            } finally {
+//                unlockRendering();
+//            }
         }
     }
 

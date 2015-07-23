@@ -178,7 +178,10 @@ public class AlbumSetSlotRenderer extends AbstractSlotRenderer {
             content = new FadeInTexture(mPlaceholderColor, entry.bitmapTexture);
             entry.content = content;
         }
+       
         drawContent(canvas, content, width, height, entry.rotation);
+        drawContent(canvas, content, width-50, height,  entry.rotation);
+        drawContent(canvas, content, width-20, height,  entry.rotation);
         if ((content instanceof FadeInTexture) &&
                 ((FadeInTexture) content).isAnimating()) {
             renderRequestFlags |= SlotView.RENDER_MORE_FRAME;

@@ -21,7 +21,9 @@ import android.net.Uri;
 import com.android.gallery3d.data.MediaSet.ItemConsumer;
 
 import java.util.ArrayList;
-
+/**
+ * 抽象类管理数据集
+ */
 public abstract class MediaSource {
     private static final String TAG = "MediaSource";
     private String mPrefix;

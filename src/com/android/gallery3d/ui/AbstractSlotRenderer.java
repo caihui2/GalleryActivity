@@ -57,10 +57,12 @@ public abstract class AbstractSlotRenderer implements SlotView.SlotRenderer {
         }
 
         // Fit the content into the box
-        float scale = Math.min(
-                (float) width / content.getWidth(),
-                (float) height / content.getHeight());
-        canvas.scale(scale, scale, 1);
+//        float scale = Math.min(
+//                (float) width / content.getWidth(),
+//                (float) height / content.getHeight());
+       float s1 =  (float) width / content.getWidth();
+       float s2 = (float) height / content.getHeight(); 
+        canvas.scale(s1, s2, 1);
         content.draw(canvas, 0, 0);
 
         canvas.restore();

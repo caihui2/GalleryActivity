@@ -103,7 +103,6 @@ public class AlbumSlotRenderer extends AbstractSlotRenderer {
     @Override
     public int renderSlot(GLCanvas canvas, int index, int pass, int width, int height) {
         if (mSlotFilter != null && !mSlotFilter.acceptSlot(index)) return 0;
-
         AlbumSlidingWindow.AlbumEntry entry = mDataWindow.get(index);
 
         int renderRequestFlags = 0;

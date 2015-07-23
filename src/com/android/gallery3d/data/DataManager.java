@@ -167,7 +167,6 @@ public class DataManager implements StitchingChangeListener {
         synchronized (LOCK) {
             MediaObject obj = path.getObject();
             if (obj != null) return obj;
-
             MediaSource source = mSourceMap.get(path.getPrefix());
             if (source == null) {
                 Log.w(TAG, "cannot find media source for path: " + path);

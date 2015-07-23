@@ -49,6 +49,9 @@ final class Config {
             slotViewSpec.rowsLand = r.getInteger(R.integer.albumset_rows_land);
             slotViewSpec.rowsPort = r.getInteger(R.integer.albumset_rows_port);
             slotViewSpec.slotGap = r.getDimensionPixelSize(R.dimen.albumset_slot_gap);
+            slotViewSpec.slotWidth = 530;
+            slotViewSpec.slotHeight = 530;
+            slotViewSpec.mUnitCount = 2;
             slotViewSpec.slotHeightAdditional = 0;
 
             paddingTop = r.getDimensionPixelSize(R.dimen.albumset_padding_top);
@@ -100,6 +103,9 @@ final class Config {
             slotViewSpec.rowsLand = r.getInteger(R.integer.album_rows_land);
             slotViewSpec.rowsPort = r.getInteger(R.integer.album_rows_port);
             slotViewSpec.slotGap = r.getDimensionPixelSize(R.dimen.album_slot_gap);
+            slotViewSpec.slotWidth = 260;
+            slotViewSpec.slotHeight = 260;
+            slotViewSpec.mUnitCount = 4;
         }
     }
 
