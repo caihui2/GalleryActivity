@@ -95,8 +95,8 @@ public final class GalleryActivity extends AbstractGalleryActivity implements On
                 || ACTION_REVIEW.equalsIgnoreCase(action)){
             startViewAction(intent);
         } else {
-        //   startDefaultPage();
-             getStateManager().startState(DomeActivity.class, null);
+          startDefaultPage();
+        //     getStateManager().startState(DomeActivity.class, null);
         }
     }
 
