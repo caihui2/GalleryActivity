@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filtershow_menu_vignette.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\filtershow_menu_vignette.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pickup.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\pickup.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filtershow_menu_chan_sat.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\filtershow_menu_chan_sat.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filterby.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\filterby.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ingest_menu_item_list_selection.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\ingest_menu_item_list_selection.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\photo.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\photo.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gallery_multiselect.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\gallery_multiselect.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filtershow_menu_crop.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\filtershow_menu_crop.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\albumset.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\albumset.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filtershow_menu_grad.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\filtershow_menu_grad.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\crop.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\movie.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\movie.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filtershow_menu_curves.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\filtershow_menu_curves.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filtershow_menu_color_border.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\filtershow_menu_color_border.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filtershow_activity_menu.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\filtershow_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gallery.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\gallery.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\album.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\album.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\groupby.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\groupby.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\operation.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\operation.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filtershow_menu_draw.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\menu\\filtershow_menu_draw.xml"
+    }
+]

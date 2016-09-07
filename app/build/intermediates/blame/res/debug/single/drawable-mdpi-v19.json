@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v19\\grid_pressed.9.png",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-mdpi-v19\\grid_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v19\\overscroll_edge.png",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-mdpi-v19\\overscroll_edge.png"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v19\\list_pressed_holo_light.9.png",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-mdpi-v19\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v19\\overscroll_glow.png",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-mdpi-v19\\overscroll_glow.png"
+    }
+]

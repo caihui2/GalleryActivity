@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gallery3d_common2_intermediate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/gallery3d_common2_intermediate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

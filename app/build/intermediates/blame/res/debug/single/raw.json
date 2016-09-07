@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\raw\\backdropper.graph",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\raw\\backdropper.graph"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\raw\\goofy_face.graph",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\raw\\goofy_face.graph"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blank.jpg",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\raw\\blank.jpg"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\raw\\video_record.ogg",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\raw\\video_record.ogg"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep_twice.ogg",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\raw\\beep_twice.ogg"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep_once.ogg",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\raw\\beep_once.ogg"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\raw\\focus_complete.ogg",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\raw\\focus_complete.ogg"
+    }
+]

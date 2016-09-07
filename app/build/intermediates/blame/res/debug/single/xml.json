@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\xml\\video_preferences.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\xml\\video_preferences.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\xml\\camera_preferences.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\xml\\camera_preferences.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\xml\\wallpaper_picker_preview.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\xml\\wallpaper_picker_preview.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\xml\\widget_info.xml"
+    }
+]

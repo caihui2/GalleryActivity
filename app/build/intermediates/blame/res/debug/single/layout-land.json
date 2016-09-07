@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\camera_controls.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\camera_controls.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\switcher_popup.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\switcher_popup.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\filtershow_editor_panel.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\filtershow_editor_panel.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\filtershow_color_border_ui.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\filtershow_color_border_ui.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\keyguard_widget.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\keyguard_widget.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\filtershow_draw_ui.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\filtershow_draw_ui.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\review_module_control.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\review_module_control.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\filtershow_category_panel_new.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\filtershow_category_panel_new.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\filtershow_vignette_controls.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\filtershow_vignette_controls.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\filtershow_saturation_controls.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\filtershow_saturation_controls.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\filtershow_activity.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\filtershow_activity.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\filtershow_grad_ui.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\filtershow_grad_ui.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\on_screen_hint.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\on_screen_hint.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\filtershow_main_panel.xml",
+        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\layout-land\\filtershow_main_panel.xml"
+    }
+]
