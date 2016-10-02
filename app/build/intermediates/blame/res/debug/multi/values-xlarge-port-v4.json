@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-port-v4\\values-xlarge-port-v4.xml",
+        "outputFile": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/values-xlarge-port-v4/values-xlarge-port-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 173
                 },
                 "from": {
-                    "file": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-xlarge-port\\drawable.xml",
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/values-xlarge-port/drawable.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -30,7 +30,50 @@
                     "endOffset": 312
                 },
                 "from": {
-                    "file": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-xlarge-port\\drawable.xml",
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/values-xlarge-port/drawable.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1010,
+                        "endColumn": 138,
+                        "endOffset": 1144
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-port-v4\\values-xlarge-port-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 122,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-xlarge-port\\drawable.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endColumn": 122,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 138,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-xlarge-port\\drawable.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,

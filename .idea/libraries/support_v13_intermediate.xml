@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="support_v13_intermediate">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/support_v13_intermediate.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,18 +1,34 @@
 [
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v19\\overscroll_glow.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xxhdpi-v19\\overscroll_glow.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v19/overscroll_glow.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xxhdpi-v19/overscroll_glow.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v19\\grid_pressed.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xxhdpi-v19\\grid_pressed.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v19\\overscroll_glow.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xxhdpi-v19\\overscroll_glow.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v19\\list_pressed_holo_light.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xxhdpi-v19\\list_pressed_holo_light.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v19\\grid_pressed.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xxhdpi-v19\\grid_pressed.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v19\\overscroll_edge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xxhdpi-v19\\overscroll_edge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v19/list_pressed_holo_light.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xxhdpi-v19/list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v19\\list_pressed_holo_light.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xxhdpi-v19\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v19/grid_pressed.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xxhdpi-v19/grid_pressed.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v19\\overscroll_edge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xxhdpi-v19\\overscroll_edge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v19/overscroll_edge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xxhdpi-v19/overscroll_edge.png"
     }
 ]

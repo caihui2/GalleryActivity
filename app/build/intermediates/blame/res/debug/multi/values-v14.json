@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 193
                 },
                 "from": {
-                    "file": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/values-v14/styles.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 448
                 },
                 "from": {
-                    "file": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/values-v14/styles.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 532
                 },
                 "from": {
-                    "file": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/values-v14/styles.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -75,7 +75,96 @@
                     "endOffset": 619
                 },
                 "from": {
-                    "file": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1192
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 963,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,

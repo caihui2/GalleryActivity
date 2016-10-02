@@ -1,10 +1,18 @@
 [
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi-v4\\btn_video_shutter_recording_pressed_holo_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-port-hdpi\\btn_video_shutter_recording_pressed_holo_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_video_shutter_recording_pressed_holo_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-port-hdpi/btn_video_shutter_recording_pressed_holo_xlarge.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi-v4\\btn_video_shutter_recording_holo_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-port-hdpi\\btn_video_shutter_recording_holo_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi-v4\\btn_video_shutter_recording_pressed_holo_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-port-hdpi\\btn_video_shutter_recording_pressed_holo_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi-v4\\btn_video_shutter_recording_holo_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-port-hdpi\\btn_video_shutter_recording_holo_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_video_shutter_recording_holo_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-port-hdpi/btn_video_shutter_recording_holo_xlarge.png"
     }
 ]

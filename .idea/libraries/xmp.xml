@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="xmp">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/xmp.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

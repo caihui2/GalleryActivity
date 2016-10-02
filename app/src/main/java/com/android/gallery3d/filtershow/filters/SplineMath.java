@@ -159,8 +159,5 @@ public class SplineMath {
         }
         float[][] curve = s.calculatetCurve(40);
 
-        for (int j = 0; j < curve.length; j++) {
-            System.out.println(curve[j][0] + "," + curve[j][1]);
-        }
     }
 }

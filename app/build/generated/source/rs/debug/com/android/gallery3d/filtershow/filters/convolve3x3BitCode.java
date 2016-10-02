@@ -16,7 +16,7 @@
 
 /*
  * This file is auto-generated. DO NOT MODIFY!
- * The source Renderscript file: E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\rs\\convolve3x3.rs
+ * The source Renderscript file: /Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/rs/convolve3x3.rs
  */
 
 package com.android.gallery3d.filtershow.filters;

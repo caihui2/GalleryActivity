@@ -1,598 +1,1194 @@
 [
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_selector_background_selected.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\list_selector_background_selected.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_selector_background_selected.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\list_selector_background_selected.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_n1.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_n1.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_scrubber_secondary.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_scrubber_secondary.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_vidcontrol.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\bg_vidcontrol.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_vidcontrol.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\bg_vidcontrol.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_wb_daylight.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_wb_daylight.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_video_effects_background_intergalactic_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_video_effects_background_intergalactic_holo.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_dropdown_panel_holo_dark.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\menu_dropdown_panel_holo_dark.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_exposure_p2.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_exposure_p2.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_360pano_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_360pano_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_dropdown_panel_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\menu_dropdown_panel_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_button_colors_sharpen.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_button_colors_sharpen.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dropdown_ic_arrow_normal_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/dropdown_ic_arrow_normal_holo_dark.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\preview.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\preview.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_border_fast.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_border_fast.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_savephoto.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_savephoto.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/placeholder_camera.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/placeholder_camera.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_video_default.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_video_default.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_video_effects_background_fields_of_wheat_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_video_effects_background_fields_of_wheat_holo.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_timelapse_none_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_timelapse_none_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_sce_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_sce_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_flash_on_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_flash_on_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\preview.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\preview.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_left_indicator.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_left_indicator.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_scrubber_control_pressed.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_scrubber_control_pressed.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_selected.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\grid_selected.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/toast_frame_holo.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/toast_frame_holo.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_n2.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_n2.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/frame_overlay_gallery_folder.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/frame_overlay_gallery_folder.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_timelapse_none.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_timelapse_none.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_sce.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_sce.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toast_frame_holo.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\toast_frame_holo.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_selected.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\grid_selected.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_background_fields_of_wheat_holo.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_background_fields_of_wheat_holo.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_n2.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_n2.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_exposure_0.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_exposure_0.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_76_inner_holo.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\spinner_76_inner_holo.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_background_fields_of_wheat_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_background_fields_of_wheat_holo.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\placeholder_empty.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\placeholder_empty.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_video_effects_faces_squeeze_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_video_effects_faces_squeeze_holo_dark.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_n3.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_n3.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_location_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_location_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_photoeditor_effects.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_photoeditor_effects.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_button_colors_curve.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_button_colors_curve.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_left_indicator_fast_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_left_indicator_fast_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\placeholder_empty.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\placeholder_empty.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_select_handle_right.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\text_select_handle_right.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_photoeditor_effects.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_photoeditor_effects.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_flash_auto.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_flash_auto.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_flash_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_flash_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_photoeditor_border.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_photoeditor_border.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dialog_full_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/dialog_full_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_flash_off_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_flash_off_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_flash_auto.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_flash_auto.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\frame_overlay_gallery_picasa.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\frame_overlay_gallery_picasa.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_vidcontrol_play.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_vidcontrol_play.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce_party.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce_party.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_flash_off_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_flash_off_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_right_indicator_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_right_indicator_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_tiny_planet.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_menu_tiny_planet.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_snapshot_border_xlarge.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_snapshot_border_xlarge.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_right_indicator_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_right_indicator_xlarge.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wb_auto.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_wb_auto.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_gallery_play_big.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_gallery_play_big.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_thumb.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_thumb.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_scrubber_control_disabled.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_scrubber_control_disabled.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_pressed.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_pressed.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_switch_photo_facing_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_switch_photo_facing_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_effects_holo_light_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_effects_holo_light_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_thumb.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_thumb.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_scn_holo_light_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_scn_holo_light_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_pressed.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_pressed.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wb_sunlight.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_wb_sunlight.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_flash_auto.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_flash_auto.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_cancel_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_cancel_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_left_indicator_fast_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_left_indicator_fast_xlarge.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_sce_off.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_sce_off.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spinner_76_outer_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/spinner_76_outer_holo.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_p1.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_p1.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_cancel_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_cancel_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wb_cloudy.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_wb_cloudy.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_sce_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_sce_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gallery_play.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_gallery_play.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_p1.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_p1.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_background_intergalactic_holo.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_background_intergalactic_holo.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wb_cloudy.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_wb_cloudy.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_squeeze_holo_dark.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_squeeze_holo_dark.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_revert_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_revert_holo_dark.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_revert_holo_dark.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_revert_holo_dark.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_full_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\dialog_full_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_progression_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_progression_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/text_select_handle_right.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/text_select_handle_right.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_full_holo_dark.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\dialog_full_holo_dark.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_view_photosphere.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_view_photosphere.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\frame_overlay_gallery_camera.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\frame_overlay_gallery_camera.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_flash_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_flash_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_photo_facing_holo_light_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_photo_facing_holo_light_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_exposure_n1.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_exposure_n1.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_tiny_planet.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_tiny_planet.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_wb_auto.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_wb_auto.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_pressed_holo_dark.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_pressed_holo_dark.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_switch_photo_facing_holo_light_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_switch_photo_facing_holo_light_xlarge.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_view_photosphere.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_view_photosphere.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_flash_off.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_flash_off.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_dropdown_panel_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/menu_dropdown_panel_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_holo_dark.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_holo_dark.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_vidcontrol_reload.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_vidcontrol_reload.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_grad_add.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_grad_add.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_thumb_disabled_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/switch_thumb_disabled_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_select_handle_left.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\text_select_handle_left.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_photo_facing_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_photo_facing_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_wb_cloudy.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_wb_cloudy.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_flash_auto_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_flash_auto_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_photo_facing_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_photo_facing_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_default.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_default.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_translucent.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_translucent.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_done_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_done_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_wb_fluorescent.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_wb_fluorescent.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_make_offline.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_make_offline.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_flash_auto_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_flash_auto_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_snapshot_border.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_snapshot_border.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_default.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_default.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_border_fast.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_border_fast.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_done_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_done_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_disabled_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_disabled_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_make_offline.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_make_offline.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_shutter_pressed.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/btn_shutter_pressed.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_snapshot_border.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_snapshot_border.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_camera.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_camera.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_border_fast.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_border_fast.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_background_normal_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_background_normal_holo_dark.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_disabled_holo_dark.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_disabled_holo_dark.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_right_indicator_fast_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_right_indicator_fast_xlarge.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gallery_play_big.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_gallery_play_big.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_wb_tungsten.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_wb_tungsten.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_video_shutter_recording_holo.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_video_shutter_recording_holo.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_gallery_play.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_gallery_play.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_divider.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\list_divider.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dropdown_ic_arrow_normal_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\dropdown_ic_arrow_normal_holo_dark.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_camera.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_camera.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_right_indicator.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_right_indicator.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switcher_menu_indicator.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switcher_menu_indicator.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_0.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_0.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_background_normal_holo_dark.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_background_normal_holo_dark.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_video_effects_faces_big_mouth_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_video_effects_faces_big_mouth_holo_dark.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_control_normal.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_control_normal.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wb_incandescent.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_wb_incandescent.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_right_indicator_fast_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_right_indicator_fast_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_left_indicator_fast.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_left_indicator_fast.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_video.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_video.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_left_indicator_fast.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_left_indicator_fast.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_left_indicator_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_left_indicator_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_scrubber_control_normal.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_scrubber_control_normal.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_wb_tungsten.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_wb_tungsten.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_bg_focused_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/switch_bg_focused_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dropdown_ic_arrow_normal_holo_dark.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\dropdown_ic_arrow_normal_holo_dark.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/frame_overlay_gallery_camera.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/frame_overlay_gallery_camera.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_right_indicator.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_right_indicator.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_hdr_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_hdr_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_location.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_location.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce_night.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce_night.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_0.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_0.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_edit_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_menu_edit_holo_dark.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vidcontrol_pause.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_vidcontrol_pause.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_btn_shutter_retake.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_btn_shutter_retake.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_button_redo.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_button_redo.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_grad_del.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_grad_del.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wb_incandescent.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_wb_incandescent.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_video_facing_holo_light_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_video_facing_holo_light_xlarge.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_back.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_back.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_hdr.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_hdr.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_left_indicator_fast.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_left_indicator_fast.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_view_photosphere.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_view_photosphere.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_effects_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_effects_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_control_focused.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_control_focused.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_progression.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_progression.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_savephoto_disabled.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_savephoto_disabled.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_ev_0.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_ev_0.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_hdr_off.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_hdr_off.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_hdr_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_hdr_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce_night.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce_night.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_thumb_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/switch_thumb_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_btn_shutter_retake.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_btn_shutter_retake.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_control_disabled.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_control_disabled.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_front.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_front.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_secondary.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_secondary.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_bg_focused_holo_dark.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_focused_holo_dark.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_undo_holo.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\panel_undo_holo.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_grad_del.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_grad_del.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_bg_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/switch_bg_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_video_facing_holo_light_xlarge.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_video_facing_holo_light_xlarge.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_sce_party.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_sce_party.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_hdr.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_hdr.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_savephoto.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_menu_savephoto.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\placeholder_locked.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\placeholder_locked.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/placeholder_empty.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/placeholder_empty.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_control_focused.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_control_focused.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_grad_del.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_grad_del.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_savephoto_disabled.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_savephoto_disabled.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_knob.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/scrubber_knob.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_ev_0.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_ev_0.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_button_undo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_button_undo.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_activated_holo_dark.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_activated_holo_dark.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_vidcontrol_pause.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_vidcontrol_pause.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_big_mouth_holo_dark.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_big_mouth_holo_dark.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\placeholder_camera.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\placeholder_camera.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_control_disabled.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_control_disabled.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_track.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_track.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_photoeditor_fix.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_photoeditor_fix.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_big_nose_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_big_nose_holo_dark.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_p2.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_p2.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_button_undo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_button_undo.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_small_mouth_holo_dark.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_small_mouth_holo_dark.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce_action.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce_action.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_divider_holo_dark.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\list_divider_holo_dark.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_recording_indicator.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_recording_indicator.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vidcontrol_play.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_vidcontrol_play.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_sce_night.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_sce_night.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_secondary.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_secondary.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_video_facing_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_video_facing_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_undo_holo.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\panel_undo_holo.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_wb_fluorescent.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_wb_fluorescent.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_bg_holo_dark.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_holo_dark.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preview.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/preview.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_wb_off.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_wb_off.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/list_divider_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/list_divider_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_border_fast_xlarge.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_border_fast_xlarge.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_recording_indicator.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_recording_indicator.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_button_undo.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_button_undo.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cameraalbum_overlay.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_cameraalbum_overlay.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\placeholder_camera.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\placeholder_camera.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_track.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_track.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_switch_video.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_switch_video.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scrubber_knob.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\scrubber_knob.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_video_shutter_recording_pressed_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_video_shutter_recording_pressed_holo.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_big_nose_holo_dark.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_big_nose_holo_dark.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_switch_video_facing_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_switch_video_facing_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce_action.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce_action.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_control_pressed.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_control_pressed.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_small_eyes_holo_dark.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_small_eyes_holo_dark.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/list_divider.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/list_divider.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_overflow.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_overflow.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_sce_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_sce_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_video_facing_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_video_facing_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_primary.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_primary.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_recording_indicator.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_recording_indicator.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_video_pressed.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_video_pressed.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cameraalbum_overlay.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_cameraalbum_overlay.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_photoeditor_effects.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_photoeditor_effects.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce_off.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce_off.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_flash_off_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_flash_off_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce_sunset.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce_sunset.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_sce_sunset.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_sce_sunset.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_video_shutter_recording_pressed_holo.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_video_shutter_recording_pressed_holo.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_edit_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_edit_holo_dark.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\frame_overlay_gallery_folder.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\frame_overlay_gallery_folder.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_loc_on.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_loc_on.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_control_pressed.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_control_pressed.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_scn_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_scn_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_76_outer_holo.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\spinner_76_outer_holo.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_cameraalbum_overlay.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_cameraalbum_overlay.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wb_fluorescent.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_wb_fluorescent.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_make_offline.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_menu_make_offline.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_button_grad.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_button_grad.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_wb_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_wb_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_primary.9.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_primary.9.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_location_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_location_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_video_pressed.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_video_pressed.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_thumb_activated_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/switch_thumb_activated_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_timer_off.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_timer_off.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_n1.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_n1.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_right_indicator_fast.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_right_indicator_fast.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_360pano_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_360pano_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vidcontrol_reload.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_vidcontrol_reload.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_wb_daylight.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_wb_daylight.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_button_colors_curve.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_button_colors_curve.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_left_indicator.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_left_indicator.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_photoeditor_color.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_photoeditor_color.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_360pano_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_360pano_holo_light.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_edit_holo_dark.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_edit_holo_dark.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_button_colors_sharpen.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_button_colors_sharpen.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_scn_holo_light.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_scn_holo_light.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_timer_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_timer_off.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_crop.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\camera_crop.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_thumb_pressed_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/switch_thumb_pressed_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_loc_on.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_loc_on.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_wb_tungsten.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_wb_tungsten.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_p3.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_p3.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_savephoto.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_savephoto.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_location_off.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_location_off.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_video_default.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_video_default.png"
     },
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_big_eyes_holo_dark.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_big_eyes_holo_dark.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_video_effects_faces_big_nose_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_video_effects_faces_big_nose_holo_dark.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_video_thumb.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_video_thumb.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_shutter_video_default.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/btn_shutter_video_default.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_timelapse_none_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_timelapse_none_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_flash_on_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_flash_on_holo_light.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_progression_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_progression_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spinner_76_inner_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/spinner_76_inner_holo.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_wb_cloudy.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_wb_cloudy.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_left_indicator.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_left_indicator.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_button_redo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_button_redo.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_right_indicator.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_right_indicator.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_exposure_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_exposure_holo_light.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_timelapse_none.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_timelapse_none.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toast_frame_holo.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\toast_frame_holo.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_button_colors_sharpen.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_button_colors_sharpen.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_snapshot_border_xlarge.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_snapshot_border_xlarge.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_76_inner_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\spinner_76_inner_holo.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_shutter_default.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/btn_shutter_default.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_flash_auto_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_flash_auto_holo_light.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_n3.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_n3.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_left_indicator_fast_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_left_indicator_fast_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/panel_undo_holo.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/panel_undo_holo.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_photoeditor_border.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_photoeditor_border.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_select_handle_right.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\text_select_handle_right.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_switcher_menu_indicator.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_switcher_menu_indicator.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_right_indicator_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_right_indicator_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_photoeditor_border.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_photoeditor_border.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_right_indicator_fast_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_right_indicator_fast_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_exposure_p1.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_exposure_p1.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\frame_overlay_gallery_picasa.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\frame_overlay_gallery_picasa.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce_party.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce_party.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_loc_on.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_loc_on.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_scrubber_track.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_scrubber_track.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_snapshot_border_xlarge.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_snapshot_border_xlarge.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_progression.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_progression.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wb_auto.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_wb_auto.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_photoeditor_fix.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_photoeditor_fix.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_scrubber_primary.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_scrubber_primary.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_switch_front.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_switch_front.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_scn_holo_light_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_scn_holo_light_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_effects_holo_light_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_effects_holo_light_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_location.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_scn_holo_light_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_scn_holo_light_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wb_sunlight.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_wb_sunlight.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/list_selector_background_selected.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/list_selector_background_selected.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_photoeditor_color.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_photoeditor_color.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gallery_play.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_gallery_play.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_vidcontrol.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/bg_vidcontrol.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_wb_fluorescent.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_wb_fluorescent.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_video_shutter_recording_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/btn_video_shutter_recording_holo.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_squeeze_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_squeeze_holo_dark.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_background_intergalactic_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_background_intergalactic_holo.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_progression_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_progression_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\frame_overlay_gallery_camera.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\frame_overlay_gallery_camera.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_ev_0.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_ev_0.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_photo_facing_holo_light_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_photo_facing_holo_light_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_pressed_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_tiny_planet.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_tiny_planet.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_savephoto_disabled.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_menu_savephoto_disabled.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_grad_add.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_grad_add.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_select_handle_left.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\text_select_handle_left.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_wb_incandescent.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_wb_incandescent.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_wb_cloudy.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_wb_cloudy.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_exposure_p3.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_exposure_p3.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_scrubber_control_focused.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_scrubber_control_focused.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_wb_fluorescent.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_wb_fluorescent.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_translucent.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_translucent.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_shutter_video_pressed.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/btn_shutter_video_pressed.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gallery_play_big.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_gallery_play_big.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_video_shutter_recording_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\btn_video_shutter_recording_holo.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_left_indicator_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_left_indicator_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_divider.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\list_divider.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switcher_menu_indicator.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switcher_menu_indicator.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_scrubber_control_normal.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_scrubber_control_normal.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_wb_daylight.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_wb_daylight.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_video.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_video.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_left_indicator_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_left_indicator_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_timelapse_none.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_timelapse_none.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_location.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_location.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vidcontrol_pause.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_vidcontrol_pause.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_button_redo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_button_redo.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_overflow.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_action_overflow.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_back.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_back.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_progression.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_progression.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_effects_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_effects_holo_light.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_holo_light.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_effects_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_effects_holo_light.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_switch_camera.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_switch_camera.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_btn_shutter_retake.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_btn_shutter_retake.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_switch_front.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_front.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_bg_focused_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_sce_action.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_sce_action.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_video_effects_background_normal_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_video_effects_background_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_video_effects_faces_small_eyes_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_video_effects_faces_small_eyes_holo_dark.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_timelapse_none_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_timelapse_none_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\placeholder_locked.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\placeholder_locked.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_border_fast_xlarge.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_border_fast_xlarge.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/actionbar_translucent.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/actionbar_translucent.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_activated_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_activated_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_big_mouth_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_big_mouth_holo_dark.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_photoeditor_fix.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_photoeditor_fix.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_p2.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_p2.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_small_mouth_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_small_mouth_holo_dark.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_divider_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vidcontrol_play.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_vidcontrol_play.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_done_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_menu_done_holo_light.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/frame_overlay_gallery_picasa.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/frame_overlay_gallery_picasa.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_video_shutter_recording_pressed_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/btn_video_shutter_recording_pressed_holo.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_grad_add.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_grad_add.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_bg_holo_dark.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_wb_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_wb_off.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_hdr.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_hdr.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_indicator_wb_cloudy.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_indicator_wb_cloudy.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_effects_holo_light_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_effects_holo_light_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_border_fast_xlarge.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_border_fast_xlarge.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scrubber_knob.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\scrubber_knob.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filtershow_button_grad.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/filtershow_button_grad.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_video_effects_faces_big_eyes_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_video_effects_faces_big_eyes_holo_dark.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_small_eyes_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_small_eyes_holo_dark.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_overflow.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_exposure_n2.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_exposure_n2.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_switch_video_facing_holo_light_xlarge.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_switch_video_facing_holo_light_xlarge.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_video_effects_faces_small_mouth_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_video_effects_faces_small_mouth_holo_dark.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/camera_crop.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/camera_crop.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sce_sunset.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_sce_sunset.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\frame_overlay_gallery_folder.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\frame_overlay_gallery_folder.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/placeholder_locked.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/placeholder_locked.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_76_outer_holo.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\spinner_76_outer_holo.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_revert_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_menu_revert_holo_dark.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wb_fluorescent.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_wb_fluorescent.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_button_grad.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_button_grad.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_exposure_n3.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_exposure_n3.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_cancel_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_menu_cancel_holo_light.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_indicator_timer_off.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_timer_off.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pan_right_indicator_fast.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_right_indicator_fast.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vidcontrol_reload.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_vidcontrol_reload.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filtershow_button_colors_curve.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\filtershow_button_colors_curve.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_flash_on_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_flash_on_holo_light.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_photoeditor_color.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_photoeditor_color.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/text_select_handle_left.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/text_select_handle_left.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_scn_holo_light.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_scn_holo_light.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_crop.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\camera_crop.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/grid_selected.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/grid_selected.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_switch_back.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_switch_back.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_snapshot_border.9.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_snapshot_border.9.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exposure_p3.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_exposure_p3.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_wb_sunlight.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_wb_sunlight.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_right_indicator_fast.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/drawable-xhdpi/ic_pan_right_indicator_fast.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_effects_faces_big_eyes_holo_dark.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_effects_faces_big_eyes_holo_dark.png"
     }
 ]

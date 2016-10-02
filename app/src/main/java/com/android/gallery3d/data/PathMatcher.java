@@ -43,7 +43,6 @@ public class PathMatcher {
         mVariables.clear();
         Node current = mRoot;
         for (int i = 0; i < segments.length; i++) {
-        	System.out.println(segments[i]+"=------");
             Node next = current.getChild(segments[i]);
             if (next == null) {
                 next = current.getChild("*");

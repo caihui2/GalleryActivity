@@ -1,6 +1,10 @@
 [
     {
-        "merged": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_camera.png",
-        "source": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_camera.png"
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher_camera.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher_camera.png"
+    },
+    {
+        "merged": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_camera.png",
+        "source": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_camera.png"
     }
 ]

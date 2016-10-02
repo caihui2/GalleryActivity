@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\values-sw320dp-port-v13\\values-sw320dp-port-v13.xml",
+        "outputFile": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/build/intermediates/res/merged/debug/values-sw320dp-port-v13/values-sw320dp-port-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 113
                 },
                 "from": {
-                    "file": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-sw320dp-port\\photoeditor_dimens.xml",
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/values-sw320dp-port/photoeditor_dimens.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -30,7 +30,50 @@
                     "endOffset": 174
                 },
                 "from": {
-                    "file": "E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-sw320dp-port\\photoeditor_dimens.xml",
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/app/src/main/res/values-sw320dp-port/photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 60,
+                        "endOffset": 883
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\build\\intermediates\\res\\merged\\debug\\values-sw320dp-port-v13\\values-sw320dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-sw320dp-port\\photoeditor_dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 62,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 60,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "/Users/caihuiyang/Documents/Develop/Code/Github/GalleryActivity/E:\\Develop\\Code\\Studio\\GalleryActivity\\app\\src\\main\\res\\values-sw320dp-port\\photoeditor_dimens.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
