@@ -139,6 +139,7 @@ public class SlotView extends GLView {
         position = Utils.clamp(position, 0, mLayout.getScrollLimit());
         mScroller.setPosition(position);
         updateScrollPosition(position, false);
+        invalidate();
     }
 
     public void setSlotSpec(Spec spec) {
@@ -153,6 +154,7 @@ public class SlotView extends GLView {
     @Override
     protected void onLayout(boolean changeSize, int l, int t, int r, int b) {
         if (!changeSize) return;
+
 
         // Make sure we are still at a resonable scroll position after the size
         // is changed (like orientation change). We choose to keep the center
@@ -179,6 +181,7 @@ public class SlotView extends GLView {
     }
 
     private void updateScrollPosition(int position, boolean force) {
+
         if (!force && (WIDE ? position == mScrollX : position == mScrollY)) return;
         if (WIDE) {
             mScrollX = position;
@@ -191,7 +194,7 @@ public class SlotView extends GLView {
 
     protected void onScrollPositionChanged(int newPosition) {
         int limit = mLayout.getScrollLimit();
-     //   mListener.onScrollPositionChanged(newPosition, limit);
+        mListener.onScrollPositionChanged(newPosition, limit);
     }
 
     public Rect getSlotRect(int slotIndex) {
@@ -235,6 +238,8 @@ public class SlotView extends GLView {
         return array;
     }
 
+
+
     @Override
     protected void render(GLCanvas canvas) {
         super.render(canvas);
@@ -247,7 +252,6 @@ public class SlotView extends GLView {
         more |= mLayout.advanceAnimation(animTime);
         int oldX = mScrollX;
         updateScrollPosition(mScroller.getPosition(), false);
-
         boolean paperActive = false;
         if (mOverscrollEffect == OVERSCROLL_3D) {
             // Check if an edge is reached and notify mPaper if so.
@@ -276,7 +280,6 @@ public class SlotView extends GLView {
         int requestCount = 0;
         int requestedSlot[] = expandIntArray(mRequestRenderSlots,
                 mLayout.mVisibleEnd - mLayout.mVisibleStart);
-
         for (int i = mLayout.mVisibleEnd - 1; i >= mLayout.mVisibleStart; --i) {
             int r = renderItem(canvas, i, 0, paperActive);
             if ((r & RENDER_MORE_FRAME) != 0) more = true;
@@ -477,8 +480,7 @@ public class SlotView extends GLView {
                 int[] padding) {
 //            int unitCount = (minorLength + mSlotGap) / (minorUnitSize + mSlotGap);
 //            if (unitCount == 0) unitCount = 1;
-    //        mUnitCount = unitCount;
-
+//            mUnitCount = unitCount;
             // We put extra padding above and below the column.
             int availableUnits = Math.min(mUnitCount, mSlotCount);
             int usedMinorLength = availableUnits * minorUnitSize +
@@ -513,6 +515,7 @@ public class SlotView extends GLView {
             }
 
             int[] padding = new int[2];
+
             if (WIDE) {
                 initLayoutParameters(mWidth, mHeight, mSlotWidth, mSlotHeight, padding);
                 mVerticalPadding.startAnimateTo(padding[0]);
@@ -633,18 +636,19 @@ public class SlotView extends GLView {
         // call the listener's onUp() when we receive any further event.
         @Override
         public void onShowPress(MotionEvent e) {
-//            GLRoot root = getGLRoot();
-//            root.lockRenderThread();
-//            try {
-//                if (isDown) return;
-//                int index = mLayout.getSlotIndexByPosition(e.getX(), e.getY());
-//                if (index != INDEX_NONE) {
-//                    isDown = true;
-//                    mListener.onDown(index);
-//                }
-//            } finally {
-//                root.unlockRenderThread();
-//            }
+            GLRoot root = getGLRoot();
+            root.lockRenderThread();
+
+            try {
+                if (isDown) return;
+                int index = mLayout.getSlotIndexByPosition(e.getX(), e.getY());
+                if (index != INDEX_NONE) {
+                    isDown = true;
+                    mListener.onDown(index);
+                }
+            } finally {
+                root.unlockRenderThread();
+            }
         }
 
         private void cancelDown(boolean byLongPress) {
@@ -699,12 +703,12 @@ public class SlotView extends GLView {
             cancelDown(true);
             if (mDownInScrolling) return;
             lockRendering();
-//            try {
-//                int index = mLayout.getSlotIndexByPosition(e.getX(), e.getY());
-//                if (index != INDEX_NONE) mListener.onLongTap(index);
-//            } finally {
-//                unlockRendering();
-//            }
+            try {
+                int index = mLayout.getSlotIndexByPosition(e.getX(), e.getY());
+                if (index != INDEX_NONE) mListener.onLongTap(index);
+            } finally {
+                unlockRendering();
+            }
         }
     }
 
@@ -723,6 +727,7 @@ public class SlotView extends GLView {
         }
         // Reset the scroll position to avoid scrolling over the updated limit.
         setScrollPosition(WIDE ? mScrollX : mScrollY);
+
         return changed;
     }
 

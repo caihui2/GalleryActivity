@@ -17,6 +17,8 @@
 package com.android.gallery3d.ui;
 
 import android.graphics.Bitmap;
+import android.graphics.Color;
+import android.graphics.Matrix;
 import android.graphics.PointF;
 
 import com.android.gallery3d.anim.CanvasAnimation;
@@ -58,6 +60,8 @@ public class SlideshowView extends GLView {
             mPrevTexture.recycle();
         }
 
+        bitmap = resizeImage(bitmap, 720, 960);
+
         mPrevTexture = mCurrentTexture;
         mPrevAnimation = mCurrentAnimation;
         mPrevRotation = mCurrentRotation;
@@ -78,6 +82,27 @@ public class SlideshowView extends GLView {
         invalidate();
     }
 
+
+    public  Bitmap resizeImage(Bitmap bitmap, int w, int h) {
+        Bitmap BitmapOrg = bitmap;
+        int width = BitmapOrg.getWidth();
+        int height = BitmapOrg.getHeight();
+        int newWidth = w;
+        int newHeight = h;
+
+        float scaleWidth = ((float) newWidth) / width;
+        float scaleHeight = ((float) newHeight) / height;
+
+        Matrix matrix = new Matrix();
+        matrix.postScale(scaleWidth, scaleHeight);
+        // if you want to rotate the Bitmap
+        // matrix.postRotate(45);
+        Bitmap resizedBitmap = Bitmap.createBitmap(BitmapOrg, 0, 0, width,
+                height, matrix, true);
+        return resizedBitmap;
+
+    }
+
     public void release() {
         if (mPrevTexture != null) {
             mPrevTexture.recycle();
@@ -92,6 +117,8 @@ public class SlideshowView extends GLView {
     @Override
     protected void render(GLCanvas canvas) {
         long animTime = AnimationTime.get();
+
+
         boolean requestRender = mTransitionAnimation.calculate(animTime);
         float alpha = mPrevTexture == null ? 1f : mTransitionAnimation.get();
 
@@ -115,6 +142,10 @@ public class SlideshowView extends GLView {
                     -mCurrentTexture.getHeight() / 2);
             canvas.restore();
         }
+
+        canvas.fillRect(0,0,1080, 550,Color.BLACK);
+
+        canvas.fillRect(0,1300,1080, 550,Color.BLACK);
         if (requestRender) invalidate();
     }
 

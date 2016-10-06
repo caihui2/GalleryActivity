@@ -96,7 +96,7 @@ public final class GalleryActivity extends AbstractGalleryActivity implements On
             startViewAction(intent);
         } else {
           startDefaultPage();
-         // getStateManager().startState(DomeActivity.class, null);
+        //  getStateManager().startState(DomeActivity.class, null);
         }
     }
 
